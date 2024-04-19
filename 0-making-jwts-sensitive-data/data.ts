@@ -32,5 +32,6 @@ export const sensitivePayload = {
     address: '123 Main St, Anytown, USA',
     dob: '1970-01-01',
     // Embarrassing data
-    embarrassing: 'I like to watch The Bachelor',
+    embarrassing: 'Ovaj klijent voli gledati Farmu i Big Brothera.',
+    shadowban: true
 };
